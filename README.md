@@ -1,4 +1,4 @@
-# Danny Portfolio Website
+# Dhananjay / Danny Portfolio Website
 
 A responsive personal portfolio website built using HTML, CSS and JavaScript. This is my first complete web development project, created during my Diploma (MSBTE). The site presents my introduction, education timeline, skills and certificates in a clean, interactive single-page layout.
 
